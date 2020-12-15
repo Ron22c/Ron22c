@@ -22,7 +22,7 @@ I am a 26 year old Engineer from India who loves to code and play drums. I am cu
 - 👯 I’m happy to collaborate on any projects related to (but not limited to) scalable API's development, Distriuted backend systems.
 - ✨ Pronouns: He/him
 - 🛸 Fun fact: I can code without beer
-- 🎼 Hobbies: Playing Drums || Coding.
+- 🎼 Hobbies: Playing Drums && Coding.
 
 ![Ranajit's github stats](https://github-readme-stats.vercel.app/api?username=Ron22c&show_icons=true&hide_border=true)
 
@@ -43,7 +43,7 @@ const RANAJIT = {
   tools: [NodeJS, Flask, Mux, Spring, Express, Docker, VertX],
   databases: [MongoDB, MySql, PostgreSQL, DynamoDB],
   caches: [Redis],
-  queues: [Kafka, SQS],
+  queues: [Kafka, sqs],
   architecture: ["microservices", "event-driven", "design system pattern", "Reactive"]
 }
 ```
@@ -54,4 +54,4 @@ const RANAJIT = {
 <img align="middle" src="https://i.pinimg.com/originals/8d/12/24/8d122406317a9c996cb68999bbf30df5.gif" width="250" height="250" />
 </p>
 
-### `Once you start thinking more about where you want to be than about making the best product, you're screwed.`- _Linus Torvalds_
+###`Once you start thinking more about where you want to be than about making the best product, you're screwed.`- _Linus Torvalds_
