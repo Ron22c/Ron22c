@@ -54,4 +54,4 @@ const RANAJIT = {
 <img align="middle" src="https://i.pinimg.com/originals/8d/12/24/8d122406317a9c996cb68999bbf30df5.gif" width="250" height="250" />
 </p>
 
-###`Once you start thinking more about where you want to be than about making the best product, you're screwed.`- _Linus Torvalds_
+### `Once you start thinking more about where you want to be than about making the best product, you're screwed.`- _Linus Torvalds_
