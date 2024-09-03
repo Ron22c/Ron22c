@@ -17,7 +17,7 @@ I am a 26 year old Engineer from India who loves to code and play drums. I am cu
   <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
 </p>
 
-- 🌌 I’m currently working at [LeadSchool](https://leadschool.in/) as a SDE-II 
+- 🌌 I’m currently working at [WAL-MART](https://www.walmart.com/) as a SDE-III
 - 👯 I am currently working on building scalable backend systems which can handle massive load and still provide <200ms response time.
 - 👯 I’m happy to collaborate on any projects related to (but not limited to) scalable API's development, Distriuted backend systems.
 - ✨ Pronouns: He/him
