@@ -1,6 +1,6 @@
 # Welcome to my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am a 26 year old Engineer from India who loves to code and play drums. I am currently working as a SDE II, working on building the platform which connects students to rich content and transform boring schools into smart one. I am passionate about distributed systems and solving hard challenges.
+I am an Engineer from India who loves to code and play drums. I am currently working as a SDE II, working on building the platform which connects students to rich content and transform boring schools into smart one. I am passionate about distributed systems and solving hard challenges.
 
   
 <details>
